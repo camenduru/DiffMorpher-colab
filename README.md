@@ -19,6 +19,7 @@ https://kevin-thu.github.io/DiffMorpher_page/
 
 ### 🖼 Output
 
+https://github.com/camenduru/DiffMorpher-colab/assets/54370274/03c5d40d-41bc-4a79-ada3-2ad71896a207
 
 ### 🏢 Sponsor
 https://modelslab.com
